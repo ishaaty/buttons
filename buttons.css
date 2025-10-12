@@ -79,7 +79,7 @@
 
 #btn3:hover {
     cursor: pointer;
-    transform: rotate(45deg);
+    transform: rotate(3600deg);
 }
 
 #btn3:active {
