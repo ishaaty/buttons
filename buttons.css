@@ -64,8 +64,8 @@
 
 
 #btn3 {
-    background-color: #13294B;
-    color: #FF5F05;
+    background-color: #FF5F05;
+    color: #13294B;
     font-weight: bold;
     font-size: 65px;
     margin-top: 40px;
@@ -76,6 +76,7 @@
     padding: 10px;
     width: 100px;
     transition: .2s;
+    box-shadow: 4px 4px 5px black;
 }
 
 #btn3:hover {
@@ -84,6 +85,6 @@
 }
 
 #btn3:active {
-    background-color: #FF5F05;
-    color: #13294B;
+    background-color: #13294B;
+    color: #FF5F05;
 }
