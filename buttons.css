@@ -86,3 +86,27 @@
     background-color: #13294B;
     color: #FF5F05;
 }
+
+
+#btn4 {
+    background-color: #4f5cd4;
+    box-shadow: 0 8px 4px goldenrod;
+    padding: 10px;
+    height: 60px;
+    width: 150px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 15px;
+    transition: 0.75s;
+}
+
+#btn4:hover {
+    transform: translateY(8px);
+    background-color: white;
+    box-shadow: 0 0;
+    cursor: pointer;
+}
+
+#btn4:active {
+    background-image: linear-gradient(to right, coral, #4f5cd4);;
+}
